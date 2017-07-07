@@ -5,46 +5,6 @@
 <!-- saved from url=(0051)http://www.yinwang.org/blog-cn/2017/07/06/master-pl -->
 <html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 
-        
-        <link href="./如何掌握所有的程序语言_files/main.css" rel="stylesheet" type="text/css">
-        <link rel="alternate" type="application/atom+xml" href="http://www.yinwang.org/atom.xml" title="Atom feed">
-        <link rel="shortcut icon" href="http://www.yinwang.org/images/Yc.jpg">
-
-        <title>如何掌握所有的程序语言</title>
-
-        <script src="./如何掌握所有的程序语言_files/ca-pub-1331524016319584.js.下载"></script><script async="" src="./如何掌握所有的程序语言_files/analytics.js.下载"></script><script>
-            (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-                (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-                m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-                                    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-            ga('create', 'UA-45586344-1', 'yinwang.org');
-            ga('send', 'pageview');
-        </script>
-        
-        <script async="" src="./如何掌握所有的程序语言_files/adsbygoogle.js.下载"></script>
-        <script>
-          (adsbygoogle = window.adsbygoogle || []).push({
-            google_ad_client: "ca-pub-1331524016319584",
-            enable_page_level_ads: true
-          });
-        </script>
-    </head>
-
-    <body>
-        <div style="margin: 2% 5% 2% 5%">
-            <table>
-                <tbody><tr>
-                    <td width="60%">
-                        <div style="margin-bottom: 5px">
-                            <script async="" src="./如何掌握所有的程序语言_files/adsbygoogle.js.下载"></script>
-                            <ins class="adsbygoogle" style="display:inline-block;width:728px;height:90px" data-ad-client="ca-pub-1331524016319584" data-ad-slot="6657867155" data-adsbygoogle-status="done"><ins id="aswift_1_expand" style="display:inline-table;border:none;height:90px;margin:0;padding:0;position:relative;visibility:visible;width:728px;background-color:transparent"><ins id="aswift_1_anchor" style="display:block;border:none;height:90px;margin:0;padding:0;position:relative;visibility:visible;width:728px;background-color:transparent"><iframe width="728" height="90" frameborder="0" marginwidth="0" marginheight="0" vspace="0" hspace="0" allowtransparency="true" scrolling="no" allowfullscreen="true" onload="var i=this.id,s=window.google_iframe_oncopy,H=s&amp;&amp;s.handlers,h=H&amp;&amp;H[i],w=this.contentWindow,d;try{d=w.document}catch(e){}if(h&amp;&amp;d&amp;&amp;(!d.body||!d.body.firstChild)){if(h.call){setTimeout(h,0)}else if(h.match){try{h=s.upd(h,i)}catch(e){}w.location.replace(h)}}" id="aswift_1" name="aswift_1" style="left:0;position:absolute;top:0;width:728px;height:90px;" src="./如何掌握所有的程序语言_files/saved_resource.html"></iframe></ins></ins></ins>
-                            <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
-                        </div>
-
-                        <div style="padding: 2% 8% 5% 8%; border: 1px solid LightGrey;">
-                            <h2>如何掌握所有的程序语言</h2>
-                            <p>对的，我这里要讲的不是如何掌握一种程序语言，而是所有的……</p>
-
 <p>很多编程初学者至今还在给我写信请教，问我该学习什么程序语言，怎么学习。由于我知道标题问题的答案，所以总感觉这个问题是如此“低级”，一直没来得及回复 :P 可是逐渐的，我发现原来不只是小白们有这个问题，就连美国大公司的很多资深工程师，其实也没搞明白。</p>
 
 <p>今天休闲活动进入第二个星期，稍微闲下来一点，我想来统一回答一下这个搁置已久的“初级问题”。这个话题貌似曾经写过，然而现在我想把它重新写一遍。因为通过跟很多人的交流，我对自己头脑中的（未转化为语言的）想法，有了更精确的表达。</p>
@@ -169,20 +129,5 @@
 <h3 id="总结">总结</h3>
 
 <p>写了这么多，重要的话重复三遍：语言特性，语言特性，语言特性，语言特性！不管是初学者还是资深程序员，应该专注于语言特性，而不是纠结于整个的“语言品牌”。只有这样才能达到融会贯通，拿起任何语言几乎立即就会用，并且写出高质量的代码。</p>
-
-
-                        </div>
-                    </td>
-
-                    <td width="16%" valign="top">
-                        <script async="" src="./如何掌握所有的程序语言_files/adsbygoogle.js.下载"></script>
-                        <ins class="adsbygoogle" style="display: block; height: 600px;" data-ad-client="ca-pub-1331524016319584" data-ad-slot="2703393155" data-ad-format="auto" data-adsbygoogle-status="done"><ins id="aswift_2_expand" style="display:inline-table;border:none;height:600px;margin:0;padding:0;position:relative;visibility:visible;width:142px;background-color:transparent"><ins id="aswift_2_anchor" style="display:block;border:none;height:600px;margin:0;padding:0;position:relative;visibility:visible;width:142px;background-color:transparent"><iframe width="142" height="600" frameborder="0" marginwidth="0" marginheight="0" vspace="0" hspace="0" allowtransparency="true" scrolling="no" allowfullscreen="true" onload="var i=this.id,s=window.google_iframe_oncopy,H=s&amp;&amp;s.handlers,h=H&amp;&amp;H[i],w=this.contentWindow,d;try{d=w.document}catch(e){}if(h&amp;&amp;d&amp;&amp;(!d.body||!d.body.firstChild)){if(h.call){setTimeout(h,0)}else if(h.match){try{h=s.upd(h,i)}catch(e){}w.location.replace(h)}}" id="aswift_2" name="aswift_2" style="left:0;position:absolute;top:0;width:142px;height:600px;" src="./如何掌握所有的程序语言_files/saved_resource(1).html"></iframe></ins></ins></ins>
-                        <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
-                    </td>
-                </tr>
-            </tbody></table>
-        </div><ins class="adsbygoogle" data-adsbygoogle-status="done" style="display: none; width: auto; height: auto;"><ins id="aswift_0_expand" style="display:inline-table;border:none;height:0px;margin:0;padding:0;position:relative;visibility:visible;width:0px;background-color:transparent"><ins id="aswift_0_anchor" style="display:block;border:none;height:0px;margin:0;padding:0;position:relative;visibility:visible;width:0px;background-color:transparent"><iframe width="0" height="0" frameborder="0" marginwidth="0" marginheight="0" vspace="0" hspace="0" allowtransparency="true" scrolling="no" allowfullscreen="true" onload="var i=this.id,s=window.google_iframe_oncopy,H=s&amp;&amp;s.handlers,h=H&amp;&amp;H[i],w=this.contentWindow,d;try{d=w.document}catch(e){}if(h&amp;&amp;d&amp;&amp;(!d.body||!d.body.firstChild)){if(h.call){setTimeout(h,0)}else if(h.match){try{h=s.upd(h,i)}catch(e){}w.location.replace(h)}}" id="aswift_0" name="aswift_0" style="left:0;position:absolute;top:0;width:0px;height:0px;" src="./如何掌握所有的程序语言_files/saved_resource(2).html"></iframe></ins></ins></ins>
-    
-
 
 </body></html>
